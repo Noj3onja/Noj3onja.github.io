@@ -20,7 +20,7 @@ title                    : "머리속"
 title_separator          : "|"
 subtitle                 : time is running
 name                     : "KimSaDol"
-description              : "끄적끄적......"
+description              : "끄적끄적..."
 url                      : "https://noj3onja.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
